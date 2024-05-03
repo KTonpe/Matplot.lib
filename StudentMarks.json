@@ -1,0 +1,38 @@
+[
+    {
+      "name": "Kaustubh",
+      "marks": {
+        "English": 85,
+        "Maths": 90,
+        "Science": 88,
+        "Social": 78
+      }
+    },
+    {
+      "name": "Nithin",
+      "marks": {
+        "English": 75,
+        "Maths": 82,
+        "Science": 80,
+        "Social": 85
+      }
+    },
+    {
+      "name": "Jayanth",
+      "marks": {
+        "English": 92,
+        "Maths": 88,
+        "Science": 78,
+        "Social": 90
+      }
+    },
+    {
+      "name": "Keertan",
+      "marks": {
+        "English": 80,
+        "Maths": 85,
+        "Science": 92,
+        "Social": 87
+      }
+    }
+  ]
